@@ -1,2 +1,2 @@
-# Air_Pollution_Forcast_Beijing  
-LSTM多变量时间序列预测-基于Keras
+# 记录ML/DL学习代码或笔记  
+代码基于python3.8.5
